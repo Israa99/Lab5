@@ -29,7 +29,24 @@ public class Bank {
         /*
          * Implement this function
          */
+    double moneyWithdrawn;
+    bankAccount = 0.0;
+    if (moneyWithdrawn > bankAccount) {
+        return false;
+    } else {
+        return true;
     }
+    getNumberOfAccount(){
+            return bankAccount;
+        }
+        }
+    if (moneyWithdrawn < double bankAccount) {
+        double moneyWithdrawn;
+        bankAccount - moneyWithdrawn;
+        }
+    }
+
+
 
     /**
      * Deposit money in an account.
